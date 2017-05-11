@@ -1,0 +1,5 @@
+/* Lista de barra de navegacion */
+#barra-de-navegacion li{
+	display: inline-block;
+}
+
